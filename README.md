@@ -9,7 +9,7 @@ Failed login:
 ![Failed login](images/failed_login.png)
 
 Upon successful registration:
-![Registered](images/registered.png)
+![Registered](images/register_success.png)
 
 Upon trying to register a user that already exists:
 ![Attempted Register](images/register_fail.png)
