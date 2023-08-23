@@ -12,7 +12,7 @@ Upon successful registration:
 ![Registered](images/registered.png)
 
 Upon trying to register a user that already exists:
-![Attempted Register](images/register_attempt.png)
+![Attempted Register](images/register_fail.png)
 
 Example Budget Page:
 ![Example](images/example.png)
