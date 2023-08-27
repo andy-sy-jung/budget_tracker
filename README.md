@@ -25,7 +25,7 @@ Example Budget Page:
 ## **SECOND VERSION**
 
 Example Budget Page:
-![Example](images/example2.png)
+![Example](images/examplev2.png)
 
 Viewing Expenses:
 ![Viewing](images/viewing.png)
