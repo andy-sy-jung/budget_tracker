@@ -14,11 +14,23 @@ Upon successful registration:
 Upon trying to register a user that already exists:
 ![Attempted Register](images/register_fail.png)
 
+Deleting a user:
+![Delete](images/delete.png)
+
+## **FIRST VERSION**
+
 Example Budget Page:
 ![Example](images/example.png)
 
-Deleting a user:
-![Delete](images/delete.png)
+## **SECOND VERSION**
+
+Example Budget Page:
+![Example](images/example2.png)
+
+Viewing Expenses:
+![Viewing](images/viewing.png)
+
+Adding expense is the same layout as before, but in a modal instead.
 
 ## Future Plans
 Am planning to add the ability to group expenses into categories, along with password capabilities for users. Will also improve the UI.
